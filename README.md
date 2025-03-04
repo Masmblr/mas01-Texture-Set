@@ -1,4 +1,4 @@
-# mas01 Texture Set
+# mas01 Texture Set - Unvanquished
 
 ![preview](readme_files/preview.jpg)
 

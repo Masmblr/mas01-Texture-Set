@@ -1,0 +1,7 @@
+textures/shared_mas01_src/*
+
+Author: Matthias Peters (masmblr@gmail.com)
+
+License: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License(https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+Notes: *_rm = Relief Mapped, *_g  = Glow Mapped, *_a  = Alpha Mapped, *_dt = Detail Textured
