@@ -2,7 +2,6 @@
 *
 
 # Allow:
-!*.crn
 !*.txt
 !*.md
-!*.shader
+!*.webp
