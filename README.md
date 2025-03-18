@@ -1,10 +1,12 @@
-# mas01 Texture Set - Unvanquished
+# mas01 Texture Set - Unvanquished Level-Editor-Files
 
 ![preview](readme_files/preview.jpg)
 
 ## Overview
 
 The **mas01** texture set is a collection of sci-fi industrial textures designed to create a futuristic, industrial atmosphere with a darker tone.
+
+These files are low-resolution and intended for developing maps for Unvanquished. For final in-game use, use the binary.
 
 ## License
 
