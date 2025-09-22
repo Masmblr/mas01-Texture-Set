@@ -1,9 +1,23 @@
-# Drop
-/*
-# Include dirs
-!*/
+# OS:
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+*.db
 
-# Keep
-!*.txt
-!*.md
-!*.webp
+# Tools:
+*.psd
+*.ai
+*.kra
+*.xcf
+
+# Misc:
+*.7z
+
+# Private:
+trash/
+mas02-texture-set_src/xcf
