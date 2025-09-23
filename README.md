@@ -1,4 +1,4 @@
-# mas01 Texture Set - Unvanquished-Dev files (Level-Editor)
+# mas01 Texture Set - Unvanquished-Dev files
 
 These files are low-resolution and intended for developing maps for Unvanquished. For final in-game use, use the [binary](https://github.com/Masmblr/mas01-Texture-Set/releases/).
 
