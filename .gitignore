@@ -1,4 +1,4 @@
-# OS:
+# OS / System Files
 .DS_Store
 .DS_Store?
 ._*
@@ -7,16 +7,45 @@
 ehthumbs.db
 Thumbs.db
 desktop.ini
-*.db
 
-# Tools:
+# Databases / Caches
+*.db
+*.log
+*.sqlite
+*.sqlite3
+
+# Archives / Compressed
+*.7z
+*.zip
+*.tar
+*.tar.gz
+*.rar
+
+# Design Files
 *.psd
 *.ai
 *.kra
 *.xcf
 
-# Misc:
-*.7z
+# IDE / Editor Settings
+.vscode/
+*.bak
 
-# Private:
+# Build / Output
+dist/
+build/
+
+# Backup
+*~
+*.backup
+
+# Private / Custom
 trash/
+
+# Game:
+*.autosave.map
+*.bak
+*.prt
+*.srf
+*.bsp
+*.pk3
