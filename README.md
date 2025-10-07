@@ -9,7 +9,11 @@ Move the contents of **`src`** to your game root, then add the following line to
 shared_mas01
 ```
 
+## info
+
+Notes: *_rm = Relief Mapped, *_g  = Glow Mapped, *_a  = Alpha Mapped, *_dt = Detail Textured
+
 
 ## Credits & License
 A comprehensive list of all files and their respective licenses can be found in the following document:
-[→ LICENSE](LICENSE)
+[→ LICENSE](src/LICENSE)
