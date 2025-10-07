@@ -4,7 +4,7 @@
 
 ## Installation
 
-Move the folders **`src`** to your game root, then add the following line to your `shaderlist.txt` file (found in the `scripts/` directory):
+Move the contents of **`src`** to your game root, then add the following line to your `shaderlist.txt` file (found in the `scripts/` directory):
 
 ```
 shared_mas01
