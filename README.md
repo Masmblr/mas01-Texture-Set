@@ -1,5 +1,4 @@
 [![License](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](docs/licenses/CreativeCommons_CC-BY-NC-ND-4.0.txt)  
-![preview](docs/images/header.jpg)
 
 
 ## Installation
