@@ -5,7 +5,7 @@
 The **mas01** texture set is a collection of sci-fi industrial textures designed to create a futuristic, industrial atmosphere with a darker tone.
 The textures were used in this [project](https://github.com/Masmblr/map-prometheus_src.dpkdir).
 
-# Overview
+### Overview
 | Type | Link | Description |
 |--------|----------|-------------|
 | source | [click](https://github.com/Masmblr/mas01-Texture-Set/tree/main/src/webp/) | Source files |
@@ -13,6 +13,6 @@ The textures were used in this [project](https://github.com/Masmblr/map-promethe
 | mas01-unvq-bin | [click](https://github.com/Masmblr/mas01-Texture-Set/releases/tag/unvq-bin)| Unvanquished binary |
 
 
-# Credits & License
+### Credits & License
 A comprehensive list of all files and their respective licenses can be found in the following document:
 [→ LICENSE](LICENSE)
