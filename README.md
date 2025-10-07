@@ -9,9 +9,14 @@ Move the contents of **`src`** to your game root, then add the following line to
 shared_mas01
 ```
 
-## info
+## Info
 
-Notes: *_rm = Relief Mapped, *_g  = Glow Mapped, *_a  = Alpha Mapped, *_dt = Detail Textured
+| File Ending | Purpose |
+|--------------|----------|
+| *_rm | Relief Mapped |
+| *_g | Glow Mapped |
+| *_a | Alpha Mapped |
+| *_dt | Detail Textured |
 
 
 ## Credits & License
