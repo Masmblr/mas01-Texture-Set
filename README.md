@@ -1,19 +1,18 @@
+[![License](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](docs/licenses/CreativeCommons_CC-BY-NC-ND-4.0.txt)  
 ![preview](docs/images/header.jpg)
 
 ## Introduction
-The **mas01** texture set is a collection of sci-fi industrial textures designed to create a futuristic, industrial atmosphere with a darker tone. </br>
+The **mas01** texture set is a collection of sci-fi industrial textures designed to create a futuristic, industrial atmosphere with a darker tone. <br>
 The textures were used in this [project](https://github.com/Masmblr/map-prometheus_src.dpkdir).
 
-## Files
-| Type | Link |
-|----------|-------|
-| Source| [click](https://github.com/Masmblr/mas01-Texture-Set/tree/main/mas01-texture-set_src/) |
-| Unvanquished-Dev | [click](https://github.com/Masmblr/mas01-Texture-Set/tree/game-unvanquished)|
-| Unvanquished-Bin | [click](https://github.com/Masmblr/mas01-Texture-Set/releases/)|
+## Overview
+| Branch | Purpose | Description |
+|--------|----------|-------------|
+| src| [click](https://github.com/Masmblr/mas01-Texture-Set/tree/main/mas01-texture-set_src/) | Source files |
+| unvq-dev | [click](https://github.com/Masmblr/mas01-Texture-Set/tree/game-unvanquished)| Unvanquished development files |
+
 
 
 ## Credits & License
-- **Matthias Peters**
-
-A comprehensive list of all files and their respective licenses can be found in the following document: </br>
-[→ Overview.txt](./docs/copyright/Overview.txt)
+A comprehensive list of all files and their respective licenses can be found in the following document:
+[→ LICENSE](LICENSE)
