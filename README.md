@@ -8,8 +8,9 @@ The textures were used in this [project](https://github.com/Masmblr/map-promethe
 ## Overview
 | Branch | Link | Description |
 |--------|----------|-------------|
-| src| [click](https://github.com/Masmblr/mas01-Texture-Set/tree/main/src/webp/) | Source files |
+| source | [click](https://github.com/Masmblr/mas01-Texture-Set/tree/main/src/webp/) | Source files |
 | mas01-unvq-dev | [click](https://github.com/Masmblr/mas01-Texture-Set/tree/mas01-unvq-dev)| Unvanquished development files |
+| mas01-unvq-bin | [click](https://github.com/Masmblr/mas01-Texture-Set/releases/tag/unvq-bin)| Unvanquished binary |
 
 
 
