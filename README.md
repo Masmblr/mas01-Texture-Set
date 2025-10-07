@@ -2,7 +2,7 @@
 ![preview](docs/images/header.jpg)
 
 ## Introduction
-The **mas01** texture set is a collection of sci-fi industrial textures designed to create a futuristic, industrial atmosphere with a darker tone. <br>
+The **mas01** texture set is a collection of sci-fi industrial textures designed to create a futuristic, industrial atmosphere with a darker tone.
 The textures were used in this [project](https://github.com/Masmblr/map-prometheus_src.dpkdir).
 
 ## Overview
